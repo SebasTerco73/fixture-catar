@@ -1,0 +1,33 @@
+body{
+    margin-top: 80px;
+    background: url(img/fondo2.avif);
+    background-repeat: none;
+    background-size: cover;
+}
+
+*{
+    font-size: 18px;
+}
+
+table{
+    border-spacing: 50px 20px;
+}
+
+th{
+color: white;
+font-size: 1.8em;
+}
+
+td{
+    color: peru;
+}
+
+img{
+    width: 30px;
+    height: 20px;
+}
+
+.abajo{
+    margin-top: 50px;
+}
+
